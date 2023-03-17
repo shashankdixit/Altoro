@@ -8,4 +8,4 @@ DAST:
   URL: "https://demo.testfire.net/"
 SCA:
   language: java
-Secret_Scan: true
+Secret_Scan: false
